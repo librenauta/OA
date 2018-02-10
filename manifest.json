@@ -1,0 +1,29 @@
+{
+  "name": "Nosotros -> Nosotras",
+  "version": "0.1",
+  "manifest_version": 1,
+  "description": "Reemplaza palabras en masculinos por femeninos para leer textos más inclusivos ej: nosotros por nosotras",
+  "homepage_url": "",
+  "options_ui": {
+      "chrome_style": true,
+      "page": "settings.html"
+   },
+  "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png" },
+  "content_scripts": [ {
+      "js": [ "js/inject.min.js" ],
+      "matches": [ "*://*/*" ],
+      "exclude_matches": [ "*://developer.mozilla.org/*", "*://*.macrigato.com.ar/*","*://twitter.com/intent/*" ],
+      "run_at": "document_end"
+   } ],
+  "browser_action": {
+    "default_title": "Nosotros -> Nosotras",
+    "default_icon": "icon48.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*", "storage"
+  ]
+}
