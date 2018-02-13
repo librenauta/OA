@@ -7,7 +7,7 @@ Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un corr
 
 # Créditos:
 Basado en el add-on Macri gato de:
-Hecho por: [Ey Pacha!](http://eypacha.com.ar)
+[Ey Pacha!](http://eypacha.com.ar)
 Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus), [Dann](https://twitter.com/Dannroda), [Niv Sardi](https://github.com/xaiki).
 remixado por librenauta
 
