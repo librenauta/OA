@@ -3,7 +3,7 @@ Extensión para Mozilla Firefox que cambia “Nosotras” por “Nosotras” cad
 
  
 # Contacto:
-Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un correo](mailto:pachaguionbajo@gmail.com?Subject=Macri%20Gato).
+Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un correo](mailto:librenauta@partidopirata.com.ar).
 
 # Créditos:
 Basado en el add-on Macri gato de:
